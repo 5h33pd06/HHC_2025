@@ -1,5 +1,5 @@
-# <img src="./images/media/image2.png"
-style="width:2.40208in;height:1.67639in" />HHC Orientation
+# <img src="./images/media/image2.png" style="width:2.40208in;height:1.67639in" />
+HHC Orientation
 
 Welcome back to the Holiday Hack Challenge!! This year we are not headed
 to the North Pole, but we are going to The Neighborhood to save
