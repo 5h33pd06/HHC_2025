@@ -38,7 +38,7 @@ I've broken this down into a section with all of the challenges and then a secti
 
 <a href="./dosis%20network%20down.md">Dosis Network Down</a>
 
-<a href="./rogue%20gnome%20identity%20provier.md">Rogue Gnome Identity Provider</a>
+<a href="./rogue%20gnome%20identity%20provider.md">Rogue Gnome Identity Provider</a>
 
 <a href="./quantgnome%20leap.md">Quantgnome Leap</a>
 
