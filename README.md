@@ -88,3 +88,6 @@ I've broken this down into a section with all of the challenges and then a secti
 
 ## Free Ski
 <a href="./scripts/free_ski/solver.py">solver.py</a>
+
+## Snowblind Ambush
+<a href="./scripts/snowblind/decrypt.py">decrypt.py</a>
